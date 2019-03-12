@@ -52,6 +52,7 @@ Trained network model and MatConvNet package were embedded in the execution file
 
 5. Execution
 
+- Decompress SCENet.egg file and then locate the SCENet.exe file to top folder(Excutable program/).
 - Locate test images in input folder(testsets/q10_peak20/).
 - Run Test.cmd file.
 - Confirm the generated results in output folder(results/).
