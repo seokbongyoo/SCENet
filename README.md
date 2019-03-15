@@ -1,2 +1,4 @@
 # SCENet
-Secondary domain interCorrelation Enhanced Network for alleviating compressed Poisson noises
+SCENet: Secondary Domain InterCorrelation Enhanced Network for Alleviating Compressed Poisson Noises 
+
+Under construction...
