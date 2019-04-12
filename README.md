@@ -15,8 +15,10 @@ SCENet: Secondary Domain InterCorrelation Enhanced Network for Alleviating Compr
 ![Figure 9](https://user-images.githubusercontent.com/46806852/56006041-534d2200-5d0e-11e9-8c25-827519fc1b71.png)
 ##### Figure 9. Comparison of the subjective visual quality for the image from the SIDD dataset, Desk. (a) Captured image using iphone7 with ISO=200 and exposure=1/400 (BRISQUE=46.81). (b) JPEG-coded image with q=30 (BRISQUE=28.98). (c) Result of BM3D [22] (BRISQUE=22.20). (d) Result of SSRQC [23] (BRISQUE=26.07). (e) Result of ARCNN [2] (BRISQUE=24.35). (f) Result of DnCNN [4] (BRISQUE=21.78). (g) Result of MWCNN [5] (BRISQUE=24.11). (h) Result of SCENet (BRISQUE=19.70).
 
-![Table 2](https://user-images.githubusercontent.com/46806852/56006042-53e5b880-5d0e-11e9-8083-3e7163c294c9.png)
+
 ##### Table 2. Comparison of the objective quality on the LIVE1 database in terms of average PSNR (dB) and SSIM.
+![Table 2](https://user-images.githubusercontent.com/46806852/56006042-53e5b880-5d0e-11e9-8083-3e7163c294c9.png)
+
 
 
 
