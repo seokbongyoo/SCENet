@@ -27,5 +27,5 @@ SCENet: Secondary Domain InterCorrelation Enhanced Network for Alleviating Compr
 [2]	Dong, C.; Deng, Y.; Change L.C.; Tang, X. (2015). Compression artifacts reduction by a deep convolutional network. In Proceedings of the IEEE International Conference on Computer Vision, Santiago, Chile, 11–18 December 2015; pp. 576–584.
 [4]	Zhang, K.; Zuo, W.; Chen, Y.; Meng, D.; Zhang, L. Beyond a Gaussian denoiser: Residual learning of deep CNN for image denoising. IEEE Trans. Image Process. 2017, 26, 3142–3155. 
 [5]	Liu, P.; Zhang, H.; Zhang, K.; Lin, L.; Zuo, W. Multi-level wavelet-CNN for image restoration. In Proceeding of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, Salt Lake City, USA, 18–22 June 2018, pp. 773–782.
-[22]	Dabov, K.; Foi, A.; Katkovnik, V.; Egiazarian, K. Image denoising by sparse 3-D transform-domain collaborative filtering. IEEE Trans. Image Process. 2007, 16, 2080–2095.
-[23]	Zhao, C.; Zhang, J.; Ma, S.; Fan, X.; Zhang, Y.; Gao, W. Reducing image compression artifacts by structural sparse representation and quantization constraint prior. IEEE Trans. Circuits Sys. Video Technol. 2017, 27, 2057–2071.
+[22] Dabov, K.; Foi, A.; Katkovnik, V.; Egiazarian, K. Image denoising by sparse 3-D transform-domain collaborative filtering. IEEE Trans. Image Process. 2007, 16, 2080–2095.
+[23] Zhao, C.; Zhang, J.; Ma, S.; Fan, X.; Zhang, Y.; Gao, W. Reducing image compression artifacts by structural sparse representation and quantization constraint prior. IEEE Trans. Circuits Sys. Video Technol. 2017, 27, 2057–2071.
