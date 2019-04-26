@@ -1,5 +1,7 @@
 # SCENet
-S. B. Yoo et al., SCENet: Secondary Domain InterCorrelation Enhanced Network for Alleviating Compressed Poisson Noises, Accepted to Sensors journal. 
+S. B. Yoo et al., SCENet: Secondary Domain InterCorrelation Enhanced Network for Alleviating Compressed Poisson Noises, Sensors 2019, 19(8), 1939. 
+
+https://doi.org/10.3390/s19081939
 
 # Results
 
