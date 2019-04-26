@@ -3,10 +3,10 @@ S. B. Yoo et al., SCENet: Secondary Domain InterCorrelation Enhanced Network for
 
 https://doi.org/10.3390/s19081939
 
-# Network Arthitecture
+# Network Architecture
 
 ![Figure 3](https://user-images.githubusercontent.com/46806852/56776034-f751c580-6804-11e9-9dae-448c7e41846a.png)
-#### Figure 3. the arthitecture of the seconondary domain intercorrelation enhanced network.
+#### Figure 3. the architecture of the seconondary domain intercorrelation enhanced network.
 
 
 # Results
